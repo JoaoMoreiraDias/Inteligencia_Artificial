@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=estado
+comment0.target=Nodo(Estado)
+comment0.text=\r\n\ Construtor\ para\ a\ class\ Nodo\r\n\ @param\ estado\ \ Estado\ que\ vai\ pretencer\ ao\ nodo\r\n
+comment1.params=
+comment1.target=boolean\ isFinal()
+comment1.text=\r\n\ Verifica\ se\ o\ estado\ \u00E9\ final\r\n
+comment2.params=
+comment2.target=java.util.List\ getSuc()
+comment2.text=\r\n\ Nodo\ encontra\ o\ proximo\ sucesor\ valido\r\n\ @return\ Lista\ de\ sucessores\r\n
+comment3.params=
+comment3.target=Nodo\ getPaiNodo()
+comment4.params=paiNodo
+comment4.target=void\ setpaiNodo(Nodo)
+comment5.params=sucessores\ nNovo
+comment5.target=void\ adicionar(java.util.List,\ Nodo)
+comment5.text=\r\n\ Adiciona\ o\ estado\ a\ lista\ de\ sucesores\ se\ for\ v\u00E1lido\r\n\ @param\ \ \ sucessores\ \ \ lista\ de\ sucessores\ a\ que\ vai\ ser\ acrescentado\ o\ novo\ estado\r\n\ @param\ \ \ eNovo\ \ \ Estado\ novo\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Override\ do\ toString\r\n\ Apresenta\ de\ forma\ clara\ o\ estado\r\n
+numComments=7

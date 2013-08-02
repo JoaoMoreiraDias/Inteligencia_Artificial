@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=estado
+comment0.target=Nodo(Estado)
+comment0.text=\r\n\ Construtor\ para\ a\ class\ Nodo\r\n\ @param\ estado\ \ Estado\ que\ vai\ pretencer\ ao\ nodo\r\n
+comment1.params=
+comment1.target=boolean\ isFinal()
+comment1.text=\r\n\ Verifica\ se\ o\ estado\ \u00E9\ final\r\n
+comment2.params=original
+comment2.target=int[]\ copia(int[])
+comment2.text=\r\n\ Cria\ a\ copia\ do\ nodo\ que\ vai\ sr\ alterado\ no\ futuro\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getSuc()
+comment3.text=\r\n\ Estado\ encontra\ o\ proximo\ sucesor\ valido\r\n\ @return\ Lista\ de\ sucessores\r\n
+comment4.params=sucessores\ novo
+comment4.target=void\ adicionar(java.util.List,\ Nodo)
+comment4.text=\r\n\ Adiciona\ um\ nodo\ filho\ a\ este\ nodo\r\n\ @param\ sucessores\ \ \ \ Lista\ de\ sucessores,\ onde\ o\ novo\ filho\ vai\ ser\ adicionado\r\n\ @param\ novo\ \ Nodo\ que\ vai\ ter\ este\ nodo\ como\ pai,\ filho\ deste\ nodo\r\n
+comment5.params=
+comment5.target=Nodo\ getNodoPai()
+comment5.text=\r\n\ Estado\ encontra\ o\ proximo\ sucesor\ valido\r\n\ @return\ Pai\ deste\ Nodo\r\n
+comment6.params=novoNodo
+comment6.target=void\ setEstadoPai(Nodo)
+comment6.text=\r\n\ Estado\ encontra\ o\ proximo\ sucesor\ valido\r\n\ @return\ Lista\ de\ sucessores\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Override\ do\ toString\r\n\ Apresenta\ de\ forma\ clara\ o\ estado\r\n
+numComments=8

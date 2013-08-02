@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=linhas\ colunas\ novo
+comment0.target=Tabuleiro(int,\ int,\ int[][])
+comment1.params=linhas\ colunas\ novoTabuleiro
+comment1.target=Tabuleiro(int,\ int,\ java.lang.String)
+comment10.params=linha\ coluna\ cor
+comment10.target=void\ setValor(int,\ int,\ int)
+comment2.params=colunaInicial\ linhaInicial\ colunaFinal\ linhaFinal\ numeroJogador
+comment2.target=void\ fazerJogada(int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=Tabuleiro\ copia()
+comment4.params=
+comment4.target=int[]\ contarPecas()
+comment5.params=
+comment5.target=void\ desenhar()
+comment6.params=
+comment6.target=int\ getNumeroLinhas()
+comment7.params=
+comment7.target=int\ getNumeroColunas()
+comment8.params=numeroLinha
+comment8.target=int\ getColunasLinha(int)
+comment9.params=linha\ coluna
+comment9.target=int\ getValor(int,\ int)
+numComments=11

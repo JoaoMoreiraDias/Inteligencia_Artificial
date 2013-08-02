@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ calculaUtilidade()
+comment0.text=calcula\ a\ utilidade\ de\ um\ estado
+comment1.params=u
+comment1.target=void\ setUtilidade(double)
+comment1.text=informa\ a\ utilidade\ de\ um\ estado
+comment2.params=jogada
+comment2.target=void\ setProxJogada(EstadoUtilidade)
+comment2.text=\ seta\ a\ jogada\ que\ ser\u00E1\ feita\ qdo\ este\ estado\ for\ o\ corrente\r\n\ (o\ algoritmo\ de\ minimax\ que\ seta\ este\ valor)\r\n
+comment3.params=
+comment3.target=EstadoUtilidade\ getProxJogada()
+comment4.params=
+comment4.target=double\ getUtilidade()
+comment4.text=retorna\ a\ utilidade\ do\ estado\ (qto\ maior\ melhor)
+comment5.params=
+comment5.target=boolean\ eFinal()
+comment5.text=verifica\ se\ \u00E9\ o\ fim\ do\ jogo
+comment6.params=
+comment6.target=java.util.List\ getSucessores()
+comment6.text=\r\n\ gera\ uma\ lista\ de\ sucessores\ do\ nodo.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getDescricao()
+comment7.text=\r\n\ retorna\ uma\ descri\u00E7\u00E3o\ do\ problema\ que\ esta\ representa\u00E7\u00E3o\r\n\ de\ estado\ resolve\r\n
+numComments=8

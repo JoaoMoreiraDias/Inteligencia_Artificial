@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=novaColunaInicial\ novaLinhaInicial\ novaColunaFinal\ novaLinhaFinal\ novaJogadaDe\ novo
+comment0.target=Jogadas(int,\ int,\ int,\ int,\ int,\ Tabuleiro)
+comment1.params=
+comment1.target=java.lang.String\ toStr()
+numComments=2

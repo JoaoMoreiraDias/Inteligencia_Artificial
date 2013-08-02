@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=novasPosicoes
+comment0.target=Estado(int[])
+comment0.text=\r\n\ Construtor\ para\ objectos\ da\ class\ Estado\r\n\ @param\ novasPosicoes\ Posi\u00E7\u00E3o\ novas\ das\ moedas\ no\ estado\r\n
+comment1.params=pos
+comment1.target=int\ getValor(int)
+comment1.text=\r\n\ Construtor\ para\ objectos\ da\ class\ Estado\r\n\ @param\ pos\ \ \ Posicao\ de\ que\ se\ requesita\ o\ valor\r\n\ @retun\ Valor\ da\ posicao\ passada\ por\ parametro\r\n
+comment2.params=
+comment2.target=int[]\ getEstado()
+comment2.text=\r\n\ Construtor\ para\ objectos\ da\ class\ Estado\r\n\ @return\ Retorna\ as\ posi\u00E7\u00F5ens\ das\ moedas\r\n
+numComments=3

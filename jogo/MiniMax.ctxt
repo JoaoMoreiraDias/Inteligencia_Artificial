@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MiniMax()
+comment1.params=profundidadeMaxima
+comment1.target=MiniMax(int)
+comment2.params=estadoCorrente
+comment2.target=double\ max(Estado)
+comment3.params=estadoCorrente\ p
+comment3.target=double\ max(Estado,\ int)
+comment4.params=estadoCorrente\ p
+comment4.target=double\ min(Estado,\ int)
+numComments=5

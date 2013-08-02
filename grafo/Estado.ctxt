@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nNumero
+comment0.target=Estado(int)
+comment0.text=\r\n\ Construtor\ de\ um\ Estado\r\n\ @param\ nNumero\ Novo\ numero\ que\ o\ estado\ vai\ ter.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Override\ do\ toString\ desta\ class.\r\n
+comment2.params=
+comment2.target=boolean\ isFinal()
+comment2.text=\r\n\ Verifica\ se\ o\ estado\ \u00E9\ final\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getSuc()
+comment3.text=\r\n\ Estado\ encontra\ o\ proximo\ sucesor\ valido\r\n\ @return\ Lista\ de\ sucessores\r\n
+numComments=4

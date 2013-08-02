@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ M\u00E9todo\ main\ desta\ aplica\u00E7\u00E3o\r\n
+comment1.params=nInicial
+comment1.target=void\ resolver(Nodo)
+comment1.text=\r\n\ M\u00E9todo\ de\ resolu\u00E7\u00E3o\ do\ problema\r\n\ @param\ nInicial\ \ \ Nodo\ em\ que\ o\ problema\ come\u00E7a\r\n
+comment2.params=novo
+comment2.target=void\ imprimSol(Nodo)
+comment2.text=\r\n\ M\u00E9todo\ de\ impress\u00E3o\ da\ solu\u00E7\u00E3o\r\n\ @param\ novo\ \ Nodo\ novo\ que\ vai\ se\ impresso\r\n
+numComments=3

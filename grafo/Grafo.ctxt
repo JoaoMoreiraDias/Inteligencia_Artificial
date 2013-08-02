@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=novoEstado\ novoCusto
+comment0.target=Grafo(Estado,\ double)
+comment0.text=\r\n\ Construtor\ da\ class\ Grafo\r\n\ @param\ novoEstado\ \ \ \ Estado\ novo\ a\ que\ este\ grafo\ vai\ preten\u00E7er\r\n\ @param\ novoCusto\ Custo\ que\ o\ grafo\ vai\ ter\r\n
+comment1.params=
+comment1.target=Estado\ getEstado()
+comment1.text=\r\n\ GETTER\ para\ retornar\ o\ estado\ deste\ grafo\r\n\ @return\ \ O\ estado\ do\ grafo\r\n
+comment2.params=
+comment2.target=double\ getCusto()
+comment2.text=\r\n\ GETTER\ do\ custo\ da\ viagem,\ ou\ grafo\r\n\ @return\ \ o\ custo\ da\ viagem,\ ou\ grafo\r\n
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Busca()
+comment0.text=\r\n\ Construtor\ para\ a\ class\ Busca,\ vazio,\ opcional.\r\n
+comment1.params=nInicial
+comment1.target=Nodo\ exec(Nodo)
+comment1.text=\r\n\ M\u00E9todo\ de\ execu\u00E7\u00E3o\ de\ busca\r\n\ @param\ \ \ nInicial\ \ \ \ Nodo\ inicial\ do\ problema\r\n\ @return\ \ O\ poximo\ nodo/resultado\ a\ ser\ impresso\r\n
+numComments=2

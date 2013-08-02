@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ServidorBreak">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ServidorBreak.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

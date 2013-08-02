@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MeuPainel()
+comment1.params=cor
+comment1.target=void\ setCor(boolean)
+comment2.params=gd
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

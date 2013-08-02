@@ -1,0 +1,38 @@
+p(fiavel|culpado)=0.85
+p(fiavel|!culpado)=0.15
+
+p(fiavel|!culpado)=0.90
+p(fiavel|culpado)=0.10
+
+p(culpado)=0.98
+p(!culpado)=0.02
+
+p(fiavel)=p(p(fiavel) * p(culpado)) + (p(fiavel|!culpado) * p(!culpado))
+
+
+p(culpado|fiavel)=?
+		 =p(culpado) * p(p(culpado) * p(fiavel)) / p(fiavel)
+      		 =0.148
+-------------------------------------------------------------------------------------------
+
+Problema de Monty Hall
+
+-------------------------------------------------------------------------------------------
+1994
+p(castanho))=0.1
+p(amarelos)=0.2
+p(vermelhos)=0.2
+p(laranja)=0.1
+p(bronze)=0.1
+p(verde)=0.1
+
+1996
+p(azul)=0.2
+p(verdes)=0.2
+p(laranja)=0.16
+p(amarelo)=0.14
+p(vermelgo)=0.15
+p(castanho)=0.15
+
+p(p(amarelo)*p(1994))=?
+p(p(verde)*p(1996))=?
